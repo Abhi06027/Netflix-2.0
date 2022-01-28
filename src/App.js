@@ -10,6 +10,7 @@ import Children from './Components/Children';
 import Asked from './Components/Asked';
 import Footer from './Components/Footer';
 
+
 function App() {
   return (
    
@@ -25,7 +26,8 @@ function App() {
     
    <head>
           <title>   Netflix clone</title>
-           <link rel="icon" href="demo_icon.gif" />
+          
+           <link rel="icon" href="/images/favicon.png"  />
         </head>
         
         </div>
