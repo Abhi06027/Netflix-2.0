@@ -9,7 +9,7 @@ export default function Main() {
 <p className=' text-lg sm:text-lg md:text-2xl lg:text-xl mt-3 px-8 sm:px-8 md:px-36 lg:px-10   text-white  brightness-200 leading-tight '  >Ready to watch? Enter your email to create or restart your membership.</p>
 
 <div className=' flex  flex-col justify-center items-center sm:flex sm:flex-col sm:justify-center sm:items-center md:flex md:flex-col md:justify-center md:items-center lg:flex lg:flex-row lg:justify-center lg:items-center  '  > 
-<input className=' min-w-[300px] sm:min-w-[500px]  md:min-w-[500px]   lg:min-w-[500px] mt-4 h-12  lg:h-16  pl-3 ' type="email" placeholder="Email address"/>
+<input className=' min-w-[365px] sm:min-w-[400px]  md:min-w-[500px]   lg:min-w-[500px] mt-4 h-12  lg:h-16  pl-3 ' type="email" placeholder="Email address"/>
 
 <div className='  mt-4 ' >
 
