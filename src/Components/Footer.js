@@ -3,10 +3,10 @@ import React from 'react';
 export default function Footer() {
   return <div>
 
-<main className=' flex justify-center items-center min-h-[450px] text-sm text-gray-300 mt-2  bg-black    '  > 
+<main className=' flex justify-center items-center min-h-[450px] text-sm text-gray-300 mt-2 pt-10  bg-black    '  > 
 
-<div className=' - ' > Questions? Call <span className='cursor-pointer hover:underline '> 000-800-040-1843 </span>   
-<div className='py-2  grid grid-cols-4  gap-20  ' >
+<div className='  ' > Questions? Call <span className='cursor-pointer hover:underline '> 000-800-040-1843 </span>   
+<div className='py-2 grid grid-cols-2 gap-8 sm:grid sm:grid-cols-3 sm:gap-2 md:grid md:grid-cols-4  md:gap-10    lg:grid lg:grid-cols-4  lg:gap-20    ' >
 <ul> 
 
 <li className=' py-2  hover:underline cursor-pointer ' > FAQ  </li>
