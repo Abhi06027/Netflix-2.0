@@ -10,7 +10,7 @@ export default function Asked() {
 
 
 <div className=' flex flex-col justify-center items-center sm:flex sm:flex-col sm:justify-center sm:items-center md:flex md:flex-col md:justify-center md:items-center lg:flex lg:flex-row lg:justify-center lg:items-center '  > 
-<input className='min-w-[365px] sm:min-w-[500px]  md:min-w-[500px]   lg:min-w-[500px] mt-4 h-12  lg:h-16  pl-3 ' type="email" placeholder="Email address"/>
+<input className='min-w-[365px] sm:min-w-[500px]  md:min-w-[500px]   lg:min-w-[500px] mt-4 h-12  lg:h-16  pl-3 outline-none focus:ring-1 focus:ring-blue-500 z-10  ' type="email" placeholder="Email address"/>
 
 <div className='  mt-4 ' >
 <a href="https://www.netflix.com/in/">

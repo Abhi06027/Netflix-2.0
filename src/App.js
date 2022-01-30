@@ -18,8 +18,8 @@ function App() {
    <div className=' bg-goli' >
   
    
-    <div className=' bg-black  '  >
-    <div className='  w-full min-h-[700px]    '  style  ={{ backgroundImage: `url(${herobgs})`  }}> 
+    <div className=' bg-black ' >
+    <div className='  w-full      md:min-h-[700px] lg:min-h-[700px] bg-bottom bg-cover lg:bg-center  '  style  ={{ backgroundImage: `url(${herobgs})`  }}> 
    
     <Header/>
      <Main/>
