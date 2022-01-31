@@ -47,7 +47,7 @@ export default function Asked() {
 <div className='  mt-4 ' >
 <a href="https://www.netflix.com/in/">
 <button className=' flex justify-center items-center bg-netflixred  hover:bg-red-600  h-10 w-32 text-base  lg:h-16 lg:w-56 lg:text-3xl text-white ' > Get Started     
-<svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4  lg:h-7 lg:w-7 mt-1 ml-2 " fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4   lg:h-7 lg:w-7 pt-1 pl-1 " fill="none" viewBox="0 0 24 24" stroke="currentColor">
   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
 </svg>
 </button>
