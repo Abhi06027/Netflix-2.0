@@ -1,5 +1,5 @@
 import React from 'react';
-
+import tv from './tv.m4v'
 export default function Phone() {
   return <div>
 <main className=' flex flex-col-reverse justify-center items-center sm:flex sm:flex-col-reverse  sm:justify-center sm:items-center md:flex md:flex-col-reverse md:justify-center md:items-center  lg:flex lg:flex-row  lg:justify-center lg:items-center text-white mt-2 min-h-[450px] sm:min-h-[500px] md:sm:min-h-[550px]  lg:min-h-[500px] bg-black space-x-1 px-5   '  > 

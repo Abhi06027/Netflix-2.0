@@ -9,13 +9,13 @@ export default function Main() {
 <p className=' text-lg sm:text-lg md:text-2xl lg:text-xl mt-3 px-8 sm:px-8 md:px-36 lg:px-10   text-white  brightness-200 leading-tight '  >Ready to watch? Enter your email to create or restart your membership.</p>
 
 <div className=' flex  flex-col justify-center items-center sm:flex sm:flex-col sm:justify-center sm:items-center md:flex md:flex-col md:justify-center md:items-center lg:flex lg:flex-row lg:justify-center lg:items-center  '  > 
-<input className=' min-w-[355px] sm:min-w-[400px]  md:min-w-[500px]   lg:min-w-[550px] mt-4 h-12  lg:h-16  pl-3 outline-none focus:ring-1 focus:ring-blue-500 z-10  ' type="email" placeholder="Email address"/>
+<input className=' min-w-[355px] sm:min-w-[400px] md:min-w-[500px] lg:min-w-[550px ] max-w-3xl mx-auto mt-4 h-12 lg:h-16 pl-3 outline-none focus:ring-1 focus:ring-blue-500 z-10  ' type="email" placeholder="Email address"/>
 
-<div className='  mt-4 ' >
+<div className='mt-4'>
 
 <a href="https://www.netflix.com/in/">
-<button className=' flex justify-center items-center bg-netflixred  hover:bg-red-600  h-10 w-32 text-base   lg:h-16 lg:w-48 lg:text-2xl text-white ' > Get Started     
-<svg xmlns="http://www.w3.org/2000/svg" class=" h-4 w-4  lg:h-6 lg:w-6 mt-1 ml-1 " fill="none" viewBox="0 0 24 24" stroke="currentColor">
+<button className=' flex justify-center items-center bg-netflixred  hover:bg-red-600  h-10 w-32 text-base   lg:h-16 lg:w-56 lg:text-3xl text-white ' > Get Started     
+<svg xmlns="http://www.w3.org/2000/svg" class=" h-4 w-4  lg:h-7 lg:w-7 mt-1 ml-2 " fill="none" viewBox="0 0 24 24" stroke="currentColor">
   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
 </svg>
 </button>
